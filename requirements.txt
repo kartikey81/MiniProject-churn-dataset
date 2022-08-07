@@ -31,3 +31,5 @@ Werkzeug
 yarg
 mlxtend
 nltk
+tensorflow
+keras
